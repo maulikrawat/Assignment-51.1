@@ -1,13 +1,12 @@
-Welcome To CodeYogi - Simple HTML & CSS Web Page
-
-This project is a simple, static web page created using fundamental HTML and CSS. It serves as a welcome page for "CodeYogi," an initiative for providing free software engineering training. The page demonstrates basic text formatting, styling, and use of inline CSS.
+Simple Welcome Page using Atomic CSS
+This project is a simple, static web page created to demonstrate the use of Atomic CSS. It serves as a welcome page for "CodeYogi," an initiative for providing free software engineering training. The project shows how to apply small, single-purpose utility classes to style HTML elements.
 
 Features
-A main heading, "Welcome To CodeYogi," styled with a green font color and a yellow background.
+A main heading and a subheading styled using atomic CSS classes.
 
-A subheading that describes the initiative, styled with a red font color and a yellow background.
+Demonstrates the separation of style rules into reusable, single-purpose classes.
 
-The entire project is self-contained in a single index.html file.
+Technologies Used
+HTML: For the structure and content of the web page.
 
-Of course. Here is a professional README.md file for your "CodeYogi" project. You can copy and paste this directly into a README.md file in your repository.
-
+Atomic CSS: For styling. Each CSS class has a single, specific purpose (e.g., .bg-yellow for background color, .green for text color).
