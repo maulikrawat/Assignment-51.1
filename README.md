@@ -4,10 +4,12 @@ This project is a simple, static web page created to demonstrate the use of Atom
 
 ![Image](https://github.com/user-attachments/assets/a5a2858b-4d49-413f-a1ae-b4efaac7a0cd)
 
+
 Features :-
 A main heading and a subheading styled using atomic CSS classes.
 
 Demonstrates the separation of style rules into reusable, single-purpose classes.
+
 
 Technologies Used :-
 HTML: For the structure and content of the web page.
