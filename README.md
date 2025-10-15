@@ -6,12 +6,14 @@ This project is a simple, static web page created to demonstrate the use of Atom
 
 
 Features :-
+
 A main heading and a subheading styled using atomic CSS classes.
 
 Demonstrates the separation of style rules into reusable, single-purpose classes.
 
 
 Technologies Used :-
+
 HTML: For the structure and content of the web page.
 
 Atomic CSS: For styling. Each CSS class has a single, specific purpose (e.g., .bg-yellow for background color, .green for text color).
